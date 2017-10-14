@@ -31,6 +31,6 @@ Brisanjem packagea NodaTime i izgradnjom projekta, NodeTime package se automatsk
 packages. To je zahvaljujući 'packages.config' datoteci, koji u sebi sadrži informaciju o NodaTime packageu i potrebnoj verziji za
 izgradnju projekta. Dalke, projekt se izgrađuje bez problema jer se package ponovno skinuo.
 
-# Odgovara na pitanja
+# Odgovorio na pitanja
 Antonio Junaković
 0036500097
