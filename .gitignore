@@ -1,0 +1,9 @@
+# These files are ignored
+
+ClassLibrary1/bin/
+ClassLibrary1/obj/
+
+KonzolnaAplikacija/bin/
+KonzolnaAplikacija/obj/
+
+packages/
