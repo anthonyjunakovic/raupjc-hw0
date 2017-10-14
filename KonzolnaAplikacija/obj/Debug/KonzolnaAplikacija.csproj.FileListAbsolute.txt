@@ -7,3 +7,6 @@ C:\Users\Anthony\Desktop\raupjc-hw0\KonzolnaAplikacija\obj\Debug\KonzolnaAplikac
 C:\Users\Anthony\Desktop\raupjc-hw0\KonzolnaAplikacija\obj\Debug\KonzolnaAplikacija.pdb
 C:\Users\Anthony\Desktop\raupjc-hw0\KonzolnaAplikacija\bin\Debug\ClassLibrary1.dll
 C:\Users\Anthony\Desktop\raupjc-hw0\KonzolnaAplikacija\bin\Debug\ClassLibrary1.pdb
+C:\Users\Anthony\Desktop\raupjc-hw0\KonzolnaAplikacija\bin\Debug\NodaTime.dll
+C:\Users\Anthony\Desktop\raupjc-hw0\KonzolnaAplikacija\bin\Debug\NodaTime.pdb
+C:\Users\Anthony\Desktop\raupjc-hw0\KonzolnaAplikacija\bin\Debug\NodaTime.xml

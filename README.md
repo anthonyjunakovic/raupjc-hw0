@@ -26,5 +26,11 @@ projekt unutar solucije uzrokuje da taj projekt ovisi o tom library projektu (on
 Da promijenimo to, u Solution Exploreru kliknemo desnim klikom na Solution, te odaberemo Properties -> Common Properties ->
 Project Dependencies, te u Project ListBox-u odaberemo 'KonzolnaAplikacija' i uncheckamo/untickamo ClassLibrary1.
 
+# Pitanje 3:
+Brisanjem packagea NodaTime i izgradnjom projekta, NodeTime package se automatski ponovno skida iz repozitorija i dodaje u folder
+packages. To je zahvaljujući 'packages.config' datoteci, koji u sebi sadrži informaciju o NodaTime packageu i potrebnoj verziji za
+izgradnju projekta. Dalke, projekt se izgrađuje bez problema jer se package ponovno skinuo.
+
 # Odgovara na pitanja
-Antonio Junaković 0036500097
+Antonio Junaković
+0036500097
