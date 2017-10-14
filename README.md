@@ -1,7 +1,7 @@
 # Pitanje 1:
 Nakon dodavanja reference na ClassLibrary1 projekt u soluciji, kopiraju nam se sljedeće datoteke u output direktorij:
 - ClassLibrary1.dll (shared library ili dynamic-link library projekta ClassLibrary1) 
-- ClassLibrary1.pdb (informacije debuggeru, nebitno)
+- ClassLibrary1.pdb (informacije debuggeru, nama nebitno)
 
 Razlog njenog kopiranja u output direktorij jest CopyLocal property u IDE-u koji je automatski postavljen na True nakon
 dodavanja reference. S obzirom da naša izvršna datoteka (KonzolnaAplikacija.exe) ovisi o ClassLibrary1.dll (poziva statičku
