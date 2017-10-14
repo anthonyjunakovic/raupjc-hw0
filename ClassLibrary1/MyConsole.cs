@@ -6,7 +6,8 @@ namespace ClassLibrary1
     {
         public static void PrintHelloWorld()
         {
-            Console.WriteLine("My Hello World Print");
+            //Console.WriteLine("My Hello World Print");
+            Console.WriteLine("Izmijenjeni hello world print!");
         }
     }
 }

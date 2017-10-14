@@ -17,5 +17,14 @@ Da vam trebam poslati izgrađenu aplikaciju, poslat ću vam (iz bin/Release fold
 - ClassLibrary1.dll
 - KonzolnaAplikacija.exe
 
-# Pitanje { Redni broj pitanja iz zadace }:
-{ Odgovor na pitanje }
+# Pitanje 2:
+Izmjenom stringa statičke funkcije PrintHelloWorld i onda kompilacije i pokretanja KonzolnaAplikacija će uzrokovati
+ponovnu izgradnju libraryja ClassLibrary1 koji se onda stavlja u output direktorij. Dakle, ispis je od novog stringa
+radije nego staroga (nova verzija librarija je korištena). Razlog tomu je što dodavanjem reference na neki library
+projekt unutar solucije uzrokuje da taj projekt ovisi o tom library projektu (on postaje njegov build dependency).
+
+Da promijenimo to, u Solution Exploreru kliknemo desnim klikom na Solution, te odaberemo Properties -> Common Properties ->
+Project Dependencies, te u Project ListBox-u odaberemo 'KonzolnaAplikacija' i uncheckamo/untickamo ClassLibrary1.
+
+# Odgovara na pitanja
+Antonio Junaković 0036500097
